@@ -16,6 +16,7 @@
 	height: 100%;
 }
 #boton_registrate{
+	border-radius: 30;
 	position: absolute;
 	top:5px;
 	height: 40px;
